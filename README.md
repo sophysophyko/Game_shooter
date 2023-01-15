@@ -1,2 +1,2 @@
 # Game_shooter
-Первый проект тут
+This is my first project
